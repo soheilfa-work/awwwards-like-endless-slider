@@ -4,7 +4,9 @@ An Awwwards-style endless image slider. Cards fan along a curved path, wrap with
 
 Built with **Next.js**, **GSAP**, **Lenis**, and Unsplash photography.
 
----
+## Live Demo
+
+**https://awwwards-like-endless-slider.vercel.app/**
 
 ## Features
 
